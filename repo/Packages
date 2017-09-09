@@ -1,0 +1,158 @@
+Package: com.macciti.andorathemeios8
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.macciti.andorathemeios8_1.2.1_iphoneos-arm.deb
+Size: 2556648
+MD5sum: d3788cc5139a61a850eb90c3d4b4fa04
+SHA1: 122d57d4377cc43e241aedc96e1402e9fd738ea6
+SHA256: 0d5f2dffdd155022f5e4df1e25477b2121e3f2131243c60311a77cdb29f17869
+Section: Themes
+Author: z3ct0r <colin.johnston.the1@gmail.com>
+Depiction: https://colin0o.github.io/depic/andora/index.html
+Name: Andora iOS 10
+
+Package: com.macciti.flaticonsios7
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.jasonaramday.flaticonsios10_1.5_iphoneos-arm.deb
+Size: 1358032
+MD5sum: bf9062c180d2dec9e40233fb2b43be5f
+SHA1: 912ae6f3b69d1219ec3586c40536d82fc59c6f2c
+SHA256: c1131f9f7e2818a6573e082bc958a566ef2ead0fe357e364fde20e3fe2445deb
+Section: Themes
+Description: FlatIcons is neat
+Author: Jason Aram Day <jday72805@gmail.com>
+Depiction: https://colin0o.github.io/depic/flaticons/index.html
+Name: FlatIcons iOS 10
+
+Package: com.z3ct0r.glyphsy
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: z3ct0r <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.z3ct0r.glyphsy_1_iphoneos-arm.deb
+Size: 55300
+MD5sum: a3d59c11d5ece7b6844e9098672827a8
+SHA1: b5c52f96523154c2188e117dc0a03209a40854bb
+SHA256: 01e415931cbef7c321dc6c43e5251f5542fffca0458d708f75a9083b9aba46a7
+Section: Themes
+Description: Glyphsy
+Author: z3ct0r <colin.johnston.the1@gmail.com>
+Depiction: https://colin0o.github.io/depic/glyphsy/index.html
+Name: Glyphsy
+
+Package: com.dynasty.metrix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.dynasty.metrix_1.0_iphoneos-arm.deb
+Size: 6100284
+MD5sum: e820ac454fe08a5d9f272fbe6a5ca66c
+SHA1: 8d8221fd88e2a2abdee91c86d4b214ce06a75156
+SHA256: 0ffc1442725c5b5b16e9e4f898356c8683750d57d0f7883a7ffb0d4b855aaa71
+Section: Themes
+Description: Metrix
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/metrix/index.html
+Name: Metrix
+
+Package: com.dynasty.swagios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.swagyouridevice
+Filename: debs//com.dynasty.swagios10_1.0_iphoneos-arm.deb
+Size: 3875116
+MD5sum: 8c7f2b5ec64f461fea717ef1afd05ed6
+SHA1: 9ff934c42ca3d1cd7e948449e9ad6ae8e91f4515
+SHA256: 5987fcdab751f4e01cdc5242fd6e9fbe29cf10c79a77ab3e54564b99c70970ce
+Section: Themes
+Description: Swag
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/swag/index.html
+Name: Swag iOS 10
+
+Package: com.dynasty.syndromeios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.syndrome
+Filename: debs//com.dynasty.syndromeios10_1.0_iphoneos-arm.deb
+Size: 8173350
+MD5sum: 83a1e0aaf81e46cf6ba22b44429f4188
+SHA1: 80617e242e0d2566ba3c9386d4670f4fe698da56
+SHA256: 38125b8634a39e5bff6926175582e2ffc1c03c214222c7724b2e90f21144503e
+Section: Themes
+Description: Syndrome
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/syn/index.html
+Name: Syndrome iOS 10
+
+Package: com.dynasty.zoobhoyeightios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.zoobhoyeight
+Filename: debs//com.dynasty.zoobhoyeightios10_1.0_iphoneos-arm.deb
+Size: 18914276
+MD5sum: 350ebeefce00c057dfdc6fa1e67e3c41
+SHA1: 60707fa1544a0b2a334e22ee28f745da86210b3d
+SHA256: 637d5240e63f699e46b0954e4ade22e174c686d820a4f289f5818435e6619f5a
+Section: Themes
+Description: ZB
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/zoob8/index.html
+Name: ZOOBHOY EIGHT iOS 10
+
+Package: com.dynasty.zoobhoyios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.macciti.zoobhoy
+Filename: debs//com.dynasty.zoobhoyios10_1.0_iphoneos-arm.deb
+Size: 2244266
+MD5sum: f9ad32f1ff0e7a41796403470b9ef7e1
+SHA1: bce1ce8c5655c372b120c9026e4eb7500333e9dd
+SHA256: 1ddaa1a8f647c2401a65493080ad0ac69ef462e12248693379755af3112e013a
+Section: Themes
+Description: ZB
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/zoob/index.html
+Name: ZOOBHOY iOS 10
+
+Package: com.dynasty.shirogoldeditionios10
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Dynasty <colin.johnston.the1@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: debs//com.dynasty.shirogoldeditionios10_1.0_iphoneos-arm.deb
+Size: 2244266
+MD5sum: 8bc6401666899f5689067e0d71baf539
+SHA1: 87cfc01db8f3516754267ec2e8fe18c7a041a6c3
+SHA256: 418e61c23dcbf0caa6cb3f8971127c0d8e638b5265b984184a24f097f27f5870
+Section: Themes
+Description: Why, hello there!
+Author: Dynasty <colin.johnston.the1@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/zoob/index.html
+Name: Shiro Gold Edition iOS 10
+
+Package: com.isaac.ug
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: IsaacTF <jday72805@gmail.com>
+Depends: winterboard
+Filename: debs//com.isaac.ug_0.1_iphoneos-arm.deb
+Size: 1616347
+MD5sum: 17285373a0f34c48a0e57604ad4824b6
+SHA1: a448e00bd6a1c8d4cdf785ace12d106f823d9c72
+SHA256: f46f553a202545d532a77ed182f39ad0dd6ed3312f486c3517d72f5115f49c60
+Section: Themes
+Description: Neat
+Author: IsaacTF <jday72805@gmail.com>
+Depiction: https://dynastyrepo.github.io/repo/depic/ug/index.html
+Name: Unsplash Glyphs
